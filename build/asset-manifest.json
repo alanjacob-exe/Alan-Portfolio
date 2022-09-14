@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/alanjacob-exe.github.io/static/css/main.f2d82f49.css",
+    "main.js": "/alanjacob-exe.github.io/static/js/main.feab36a6.js",
+    "static/media/logo_sub.png": "/alanjacob-exe.github.io/static/media/logo_sub.6bcc967f88566e3fdfdb.png",
+    "static/media/logo-s.png": "/alanjacob-exe.github.io/static/media/logo-s.d9133f2c878ccb5da60b.png",
+    "static/media/helvetica-neu.ttf": "/alanjacob-exe.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/alanjacob-exe.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/alanjacob-exe.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/alanjacob-exe.github.io/index.html",
+    "main.f2d82f49.css.map": "/alanjacob-exe.github.io/static/css/main.f2d82f49.css.map",
+    "main.feab36a6.js.map": "/alanjacob-exe.github.io/static/js/main.feab36a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d82f49.css",
+    "static/js/main.feab36a6.js"
+  ]
+}
