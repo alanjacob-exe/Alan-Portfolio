@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 import { useState } from "react";
 import AnimatedLetters from "../AnimatedLetter";
 import { useEffect } from "react";
-import Logo from '../Logo';
 
 
 const Home = () => {
